@@ -1,1 +1,0 @@
-# industrial-measurement-productivity
